@@ -1,59 +1,217 @@
-<div align=center>
-     <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 200px></picture> 
-</div>     
+<div align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200px" alt="About Me Animation">
+</div>
 
-<h1 align="center">Hi 👋, I'm Nethindu Hansaka👨‍💻</h1>
-<h3 align="center">I am a graduate candidate in Software Engineering from Open University Sri Lanka🎓📝</h3>
+# <div align="center">👋 Hello World, I'm Nethindu Hansaka!
+```
+【﻿nethinduhansaka-dev】
+```
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethinduhansaka&label=Profile%20views&color=0e75b6&style=flat" alt="nethinduhansaka" /> 
-<img src="https://img.shields.io/badge/Age-21-blue" />
-<img src="https://img.shields.io/badge/Lives-Sri Lanka-success" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+
+
+
+<div align="center">
+  <a href="mailto:nethinduhansaka6113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/nethinduhansaka-a752072b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@nethinduhansaka">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nethinduhansaka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Age-21-blue" alt="Age">
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-success" alt="Location">
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" alt="Languages">
+</div>
+
+## 📊 Performance Dashboard
+
+### 📊 Contribution Activity
+[![Nethindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethinduhansaka&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+### 📈 Contribution Metrics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethinduhansaka&theme=monokai" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nethinduhansaka&theme=monokai" width="31%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nethinduhansaka&theme=monokai" width="31%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nethinduhansaka&theme=monokai" width="31%">
+</div>
+
+## 🎯 Skills & Expertise
+
+### 💻 Technical Proficiency
+```mermaid
+pie title Programming Languages
+    "JavaScript" : 30
+    "Python" : 25
+    "HTML/CSS" : 20
+    "C++" : 15
+    "SQL" : 10
+```
+
+### 🌟 Skill Progress
+
+<details>
+<summary>Frontend Development</summary>
+<br/>
+<p align="left">
+███████████████████░░░░░ 85%
 </p>
+</details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nethinduhansaka" alt="nethinduhansaka" /></a> </p>
-
----
-
-- 🌱 I’m currently learning **Python , Javascript (vue, React) , HTML , CSS , C++**
-
-- 📝 I regularly write articles on [https://medium.com/@nethinduhansaka](https://medium.com/@nethinduhansaka)
-
-- 💬 Ask me about **HTML CSS**
-
-- 📫 How to reach me **nethinduhansaka6113@gmail.com**
-
-  ---
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://medium.com/@nethinduhansaka" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/nethinduhansaka-a752072b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethinduhansaka-a752072b4" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090717030773&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nethinduhansaka" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@nethinduhansaka7209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nethinduhansaka7209" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/nethinduhansaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nethinduhansaka1" height="40" width="40" /></a>
+<details>
+<summary>Backend Development</summary>
+<br/>
+<p align="left">
+██████████████░░░░░░░░░░ 70%
 </p>
+</details>
+
+<details>
+<summary>Database Management</summary>
+<br/>
+<p align="left">
+███████████████░░░░░░░░░ 75%
+</p>
+</details>
+
+<details>
+<summary>UI/UX Design</summary>
+<br/>
+<p align="left">
+████████████████░░░░░░░░ 80%
+</p>
+</details>
+
+<details>
+<summary>DevOps</summary>
+<br/>
+<p align="left">
+████████████░░░░░░░░░░░░ 60%
+</p>
+</details>
+
+## 🎓 About Me
+
+I'm a passionate Software Engineering student at the Open University of Sri Lanka, dedicated to creating innovative solutions and continuous learning. With a strong foundation in web development and a growing expertise in multiple programming languages, I'm always excited to take on new challenges and contribute to meaningful projects.
+
+### 📊 Weekly Development Breakdown
+```text
+JavaScript   9 hrs 45 mins   ███████████░░░░░░   45.25%
+Python       5 hrs 30 mins   ██████░░░░░░░░░░░   25.50%
+HTML/CSS     4 hrs 15 mins   ████░░░░░░░░░░░░░   19.75%
+C++          2 hrs 05 mins   ██░░░░░░░░░░░░░░░    9.50%
+```
+
+## 🚀 Current Focus & Projects
+
+### Project Timeline
+```mermaid
+gantt
+    title 2024 Project Timeline
+    dateFormat  YYYY-MM-DD
+    section Frontend
+    React Project     :2024-01-01, 90d
+    Vue.js Learning   :2024-03-01, 60d
+    section Backend
+    Python API        :2024-02-01, 75d
+    Database Design   :2024-04-01, 45d
+```
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🎯 2024 Goals Progress
 
----
+<table>
+  <tr>
+    <td>Open Source Contributions</td>
+    <td>
+      <img src="https://img.shields.io/badge/Progress-40%25-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>Portfolio Projects</td>
+    <td>
+      <img src="https://img.shields.io/badge/Progress-65%25-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>Technical Blog Posts</td>
+    <td>
+      <img src="https://img.shields.io/badge/Progress-55%25-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td>Certifications</td>
+    <td>
+      <img src="https://img.shields.io/badge/Progress-70%25-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nethinduhansaka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="nethinduhansaka" /></a></p><br><br>
+## 💻 Technical Skills
 
----
+### Languages & Frameworks
+```
+Frontend     →  HTML5, CSS3, JavaScript, React.js, Vue.js
+Backend      →  Python, C++
+Database     →  MySQL
+Tools        →  Git, Bootstrap
+```
 
-![nethinduhansaka-dev's github stats](https://github-readme-stats.vercel.app/api?username=nethinduhansaka&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethinduhansaka&theme=tokyonight" alt="mystreak"/>
-![nethinduhansaka-dev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nethinduhansaka&theme=tokyonight&layout=compact)
 
 
+### Currently Exploring
+- 🔍 Advanced JavaScript Frameworks
+- 🌐 Full-stack Development
+- 📊 Database Management Systems
+- 🎨 UI/UX Design Principles
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading...</p>
-    </div>
+## 📈 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethinduhansaka&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethinduhansaka&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nethinduhansaka&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  <a href="https://www.facebook.com/profile.php?id=100090717030773&mibextid=ZbWKwL">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="http://www.youtube.com/@nethinduhansaka7209">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nethinduhansaka1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+  </a>
+</div>
+
+## 💪 Support My Work
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+  <p>Happy Coding! 👨‍💻</p>
+</div>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/nethinduhansaka">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+  </a>
+</div>
