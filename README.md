@@ -1,217 +1,187 @@
-<div align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200px" alt="About Me Animation">
-</div>
+# Nethindu Hansaka
+**AI-Assisted Developer | Cross-Platform Application Developer**
 
-# <div align="center">👋 Hello World, I'm Nethindu Hansaka!
-```
-【﻿nethinduhansaka-dev】
-```
-</div>
+> Creating innovative solutions across **Mobile**, **Web**, and **Desktop** platforms powered by cutting-edge AI tools
 
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB6A0?style=flat-square&logo=perplexity&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-
-
-<div align="center">
-  <a href="mailto:nethinduhansaka6113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/nethinduhansaka-a752072b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@nethinduhansaka">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nethinduhansaka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Age-21-blue" alt="Age">
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-success" alt="Location">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" alt="Languages">
-</div>
-
-## 📊 Performance Dashboard
-
-### 📊 Contribution Activity
-[![Nethindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nethinduhansaka&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### 📈 Contribution Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethinduhansaka&theme=monokai" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nethinduhansaka&theme=monokai" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nethinduhansaka&theme=monokai" width="31%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nethinduhansaka&theme=monokai" width="31%">
-</div>
-
-## 🎯 Skills & Expertise
-
-### 💻 Technical Proficiency
-```mermaid
-pie title Programming Languages
-    "JavaScript" : 30
-    "Python" : 25
-    "HTML/CSS" : 20
-    "C++" : 15
-    "SQL" : 10
-```
-
-### 🌟 Skill Progress
-
-<details>
-<summary>Frontend Development</summary>
-<br/>
-<p align="left">
-███████████████████░░░░░ 85%
-</p>
-</details>
-
-<details>
-<summary>Backend Development</summary>
-<br/>
-<p align="left">
-██████████████░░░░░░░░░░ 70%
-</p>
-</details>
-
-<details>
-<summary>Database Management</summary>
-<br/>
-<p align="left">
-███████████████░░░░░░░░░ 75%
-</p>
-</details>
-
-<details>
-<summary>UI/UX Design</summary>
-<br/>
-<p align="left">
-████████████████░░░░░░░░ 80%
-</p>
-</details>
-
-<details>
-<summary>DevOps</summary>
-<br/>
-<p align="left">
-████████████░░░░░░░░░░░░ 60%
-</p>
-</details>
-
-## 🎓 About Me
-
-I'm a passionate Software Engineering student at the Open University of Sri Lanka, dedicated to creating innovative solutions and continuous learning. With a strong foundation in web development and a growing expertise in multiple programming languages, I'm always excited to take on new challenges and contribute to meaningful projects.
-
-### 📊 Weekly Development Breakdown
-```text
-JavaScript   9 hrs 45 mins   ███████████░░░░░░   45.25%
-Python       5 hrs 30 mins   ██████░░░░░░░░░░░   25.50%
-HTML/CSS     4 hrs 15 mins   ████░░░░░░░░░░░░░   19.75%
-C++          2 hrs 05 mins   ██░░░░░░░░░░░░░░░    9.50%
-```
-
-## 🚀 Current Focus & Projects
-
-### Project Timeline
-```mermaid
-gantt
-    title 2024 Project Timeline
-    dateFormat  YYYY-MM-DD
-    section Frontend
-    React Project     :2024-01-01, 90d
-    Vue.js Learning   :2024-03-01, 60d
-    section Backend
-    Python API        :2024-02-01, 75d
-    Database Design   :2024-04-01, 45d
-```
+[![Email](https://img.shields.io/badge/Email-nethinduhansaka6113%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:nethinduhansaka6113@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nethinduhansaka-a752072b4)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium)](https://medium.com/@nethinduhansaka)
 
 ---
 
-### 🎯 2024 Goals Progress
+## 🛠️ Key Projects & Portfolio
 
-<table>
-  <tr>
-    <td>Open Source Contributions</td>
-    <td>
-      <img src="https://img.shields.io/badge/Progress-40%25-brightgreen?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td>Portfolio Projects</td>
-    <td>
-      <img src="https://img.shields.io/badge/Progress-65%25-brightgreen?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td>Technical Blog Posts</td>
-    <td>
-      <img src="https://img.shields.io/badge/Progress-55%25-brightgreen?style=for-the-badge" />
-    </td>
-  </tr>
-  <tr>
-    <td>Certifications</td>
-    <td>
-      <img src="https://img.shields.io/badge/Progress-70%25-brightgreen?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+### 🚀 Featured Applications
 
-## 💻 Technical Skills
+**🔄 BusMate** - Android app with Google Maps integration for real-time bus tracking  
+*Technologies: React Native, Java, Google Maps API*
 
-### Languages & Frameworks
-```
-Frontend     →  HTML5, CSS3, JavaScript, React.js, Vue.js
-Backend      →  Python, C++
-Database     →  MySQL
-Tools        →  Git, Bootstrap
-```
+**🏫 Smart Bell System** - School/College automated bell system  
+*Technologies: ElectronJS, Node.js*
 
+**📄 Digital Portfolio Generator** - Automated portfolio site builder  
+*Technologies: Flask, React, Python*
 
+**🍽️ Recipe Sharing Platform** - AI-powered recipe upload and viewing platform  
+*Technologies: React, AI APIs, Node.js*
 
-### Currently Exploring
-- 🔍 Advanced JavaScript Frameworks
-- 🌐 Full-stack Development
-- 📊 Database Management Systems
-- 🎨 UI/UX Design Principles
+**📸 Image Background Remover** - Desktop software with advanced image processing  
+*Technologies: Python 3.13, Qt/Kivy*
 
-## 📈 GitHub Statistics
+**💳 Payments Dashboard** - Admin dashboard for payment management  
+*Technologies: React, TailwindCSS*
+
+**🖼️ Event Media Manager** - Educational platform's media dashboard  
+*Technologies: React, Node.js*
+
+**🌐 Hosting Website** - Web platform for managing hosting services  
+*Technologies: Django, React*
+
+**🚖 Taxi App** - Cross-platform cab booking and tracking system  
+*Technologies: React Native, Node.js*
+
+**🧠 AI Chatbot** - Intelligent assistant using NLP APIs  
+*Technologies: Python, NLP APIs*
+
+**🔐 Password Manager** - Secure desktop software for credential storage  
+*Technologies: Python, Qt, Encryption*
+
+### 🧠 Additional Technical Knowledge
+
+- **Development Tools**: GitHub CLI (gh copilot), GitHub Discussions
+- **API Development**: REST APIs, Express.js
+- **Low-Level Programming**: Assembly language, Computer architecture
+- **AI/ML**: Self-study and implementation readiness
+- **Version Control**: Advanced Git & GitHub (contributor-level)
+- **Cloud Services**: Firebase, Supabase (authentication and storage)
+
+---
+
+## About Me
+
+I am a dedicated Software Engineering student at the Open University of Sri Lanka and an **AI-Assisted Developer** specializing in cross-platform application development. I harness the power of advanced AI tools including **GitHub Copilot**, **Claude**, **ChatGPT**, **Perplexity**, and **Gemini** to create innovative solutions across **Mobile**, **Web**, and **Desktop** platforms, combining human creativity with artificial intelligence to deliver exceptional user experiences.
+
+**Location:** Sri Lanka  
+**Languages:** English, Sinhala  
+**Specialization:** AI-Assisted Cross-Platform Development  
+**AI Tools:** GitHub Copilot, Claude, ChatGPT, Perplexity, Gemini  
+**Platforms:** Mobile (React Native, Java) | Web (React, Next.js, Django, Flask) | Desktop (Python Qt/Kivy, Electron, Tauri)  
+**Current Focus:** Cross-platform development with AI-enhanced workflows and real-time applications
+
+---
+
+## Technical Skills
+
+### AI Development Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Code_Assistant-000000?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI_Assistant-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Assistant-412991?style=flat-square&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-AI_Search-1FB6A0?style=flat-square&logo=perplexity&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI_Assistant-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Android_Java-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Desktop Development
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-3776AB?style=flat-square&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nethinduhansaka&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethinduhansaka&theme=tokyonight" alt="GitHub Streak" height="170"/>
+
+![Nethindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethinduhansaka&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nethinduhansaka&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+
 </div>
 
+### Most Used Languages
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nethinduhansaka&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethinduhansaka&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+
 </div>
 
-## 🤝 Let's Connect!
+---
+
+## Recent Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nethinduhansaka&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
+
+---
+
+## Professional Goals
+
+- 🤖 Mastering AI-assisted development with GitHub Copilot, Claude, ChatGPT, Perplexity, and Gemini
+- 📱 Building intelligent cross-platform mobile applications
+- 💻 Developing AI-enhanced responsive web applications
+- 🖥️ Creating smart desktop software solutions with AI integration
+- 🌐 Implementing AI-powered features in user-facing applications
+- 📚 Exploring emerging AI tools and development methodologies
+- 📝 Sharing knowledge about AI-assisted development best practices
+- 🎯 Contributing to open-source projects with AI-enhanced workflows
+- 🔬 Researching innovative applications of AI in software development
+
+---
+
+## Get In Touch
+
+I'm always open to discussing new opportunities, collaborations, or innovative cross-platform projects enhanced with AI. Whether you're interested in **mobile app development**, **web applications**, **desktop software**, or **AI-assisted development workflows** using tools like GitHub Copilot, Claude, ChatGPT, Perplexity, and Gemini, feel free to reach out through any of the platforms above.
+
+**Let's build the future with AI-enhanced development!**
+
+---
 
 <div align="center">
-  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
-  <a href="https://www.facebook.com/profile.php?id=100090717030773&mibextid=ZbWKwL">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="http://www.youtube.com/@nethinduhansaka7209">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/nethinduhansaka1">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-</div>
 
-## 💪 Support My Work
+![Profile Views](https://komarev.com/ghpvc/?username=nethinduhansaka&color=0366d6&style=flat-square&label=Profile+Views)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-  <p>Happy Coding! 👨‍💻</p>
-</div>
+*Last updated: 2024*
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/nethinduhansaka">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
-  </a>
+*"Combining human creativity with artificial intelligence to create exceptional digital experiences"*
+
 </div>
